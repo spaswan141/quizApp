@@ -1,0 +1,13 @@
+.navbar{
+    width: 100%;
+    height:50px;
+    background-color:salmon;
+    display:grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.userNavbar{
+   border-right: 2px solid black;
+}
+.navbarRouteName{
+    text-align: center;
+}
